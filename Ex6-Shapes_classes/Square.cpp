@@ -2,7 +2,7 @@
 File Name: Square.cpp
 Author: Liri (21/4/2020)
 Purpose: This file contain class of Square, that inheritor from Shape,
-		with its functions and parameter
+			with its functions and parameter
 \********************************************************/
 
 #include "Square.h"
