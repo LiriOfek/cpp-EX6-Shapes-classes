@@ -19,5 +19,5 @@ double Square::getArea()
 
 double Square::getPerimeter()
 {
-	return FOUR * length;
+	return 4 * length;
 }

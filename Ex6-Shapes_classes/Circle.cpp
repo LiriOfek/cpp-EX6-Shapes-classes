@@ -18,5 +18,5 @@ double Circle::getArea()
 }
 
 double Circle::getPerimeter() {
-	return TWO * M_PI * radius;
+	return 2 * M_PI * radius;
 }

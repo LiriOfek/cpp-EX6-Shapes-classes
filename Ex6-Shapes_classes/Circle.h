@@ -11,8 +11,6 @@ Purpose: This header file contain class of Circle, that inheritor from Shape,
 #include <cmath>
 #include "Shape.h"
 
-const int TWO = 2;
-
 /*class Circle, that inheritor from Shape, and contain functions that
 get area and get perimeter of the circle*/
 class Circle : public Shape {

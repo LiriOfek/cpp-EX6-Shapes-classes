@@ -8,8 +8,6 @@ Purpose: This header file contain class of Square, that inheritor from Shape,
 #pragma once
 #include "Shape.h"
 
-const int FOUR = 4;
-
 /*class Square, that inheritor from Shape, and contain functions that
 get area and get perimeter of the square*/
 class Square : public Shape {
