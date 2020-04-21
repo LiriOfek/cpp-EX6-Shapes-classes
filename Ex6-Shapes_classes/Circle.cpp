@@ -2,7 +2,7 @@
 File Name: Circle.cpp
 Author: Liri (21/4/2020)
 Purpose: This file contain class of Circle, that inheritor from Shape,
-with its functions and parameter
+			with its functions and parameter
 \********************************************************/
 
 #include "Circle.h"
